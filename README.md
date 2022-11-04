@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AI and ML**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rajdeep-shaw-b2650779/](https://www.linkedin.com/in/rajdeep-shaw-b2650779/)
+- 👨‍💻 All of my projects are available at [https://github.com/rajdeepshaw?tab=repositories](https://github.com/rajdeepshaw?tab=repositories)
 
 - 📝 I regularly write articles on [https://codegeekblogging.blogspot.com/](https://codegeekblogging.blogspot.com/)
 
