@@ -4,14 +4,19 @@
 <h3 align="center">A passionate Full-Stack Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
 <p align="left"> <a href="https://twitter.com/rajdeepshaw" target="blank"><img src="https://img.shields.io/twitter/follow/rajdeepshaw?logo=twitter&style=for-the-badge" alt="rajdeepshaw" /></a> </p>
 
 - 🌱 I’m currently learning **AI and ML**
 
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rajdeep-shaw-b2650779/](https://www.linkedin.com/in/rajdeep-shaw-b2650779/)
+
+- 📝 I regularly write articles on [https://codegeekblogging.blogspot.com/](https://codegeekblogging.blogspot.com/)
+
 - 💬 Ask me about **git, html, C, C++, Python**
 
 - 📫 How to reach me **beetel.smart@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/rajdeep-shaw-b2650779/](https://www.linkedin.com/in/rajdeep-shaw-b2650779/)
 
 - ⚡ Fun fact **I think I am Funny**
 
@@ -19,6 +24,9 @@
 <p align="left">
 <a href="https://twitter.com/rajdeepshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajdeepshaw" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rajdeep-shaw-b2650779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajdeep-shaw-b2650779" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/beetel_smart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="beetel_smart" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/rajdeep_shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rajdeep_shaw" height="30" width="40" /></a>
+<a href="https://discord.gg/zaubD5aTTC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zaubD5aTTC" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
